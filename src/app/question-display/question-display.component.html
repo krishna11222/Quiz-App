@@ -1,0 +1,20 @@
+<div class="question-container">
+    <div class="question-stimulus" [innerHTML]="question.data.stimulus"></div>
+    
+    <div class="options">
+      <div *ngFor="let option of question.data.options" 
+           class="card-option" 
+           (click)="onSelectOption(option.value)">
+        <input
+          type="radio"
+          [value]="option.value"
+          name="quizOption"
+          [checked]="selectedOption === option.value"
+          id="option{{option.value}}"
+          class="form-check-input"
+        />
+        <label [attr.for]="'option' + option.value" [innerHTML]="option.label"></label>
+      </div>
+    </div>
+  </div>
+  

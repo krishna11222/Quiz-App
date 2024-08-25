@@ -1,0 +1,44 @@
+.question-container {
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .question-stimulus {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .card-option {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    cursor: pointer;
+    transition: box-shadow 0.2s ease, background-color 0.2s ease;
+    width: 250px;
+  }
+  
+  .card-option:hover {
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-option input[type="radio"] {
+    margin-right: 0.5rem;
+  }
+  
+  .card-option label {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+  

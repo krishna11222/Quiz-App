@@ -1,0 +1,27 @@
+<div class="container mt-4">
+  <app-question-display 
+    *ngIf="questions.length > 0" 
+    [question]="questions[currentQuestionIndex]" 
+    [selectedOption]="selectedOptions[currentQuestionIndex]" 
+    (optionSelected)="selectOption($event)">
+  </app-question-display>
+
+
+  <div class="button-group mt-4">
+    <button class="navigation-button" (click)="previousQuestion()" [disabled]="currentQuestionIndex === 0">
+      Previous
+    </button>
+    <button class="navigation-button" (click)="nextQuestion()" [disabled]="isLastQuestion()">
+      Next
+    </button>
+    <button class="submit-button" (click)="submitAnswer()" [disabled]="score !== null">
+      Submit
+    </button>
+  </div>
+
+ 
+  <div *ngIf="score !== null" class="score-display mt-4">
+    <h3>Your Score: {{ score }} out of {{ totalPossibleScore }}</h3>
+  </div>
+</div>
+

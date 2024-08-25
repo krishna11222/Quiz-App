@@ -1,0 +1,474 @@
+[
+    {
+        "questionID": "tqqb-c6aba3e8-ece6-4119-acbb-9f9f581d8059",
+        "data": {
+            "stimulus": "<p>Which two of the points given below are the twin characteristics of growth?</p><p>(i)  Increase in mass of one individual</p><p>(ii) Increase in number of individuals</p><p>(iii) Cellular organisation</p><p>(iv) Cellular differentiation</p>",
+            "stimulus_media": "",
+            "marks": 2,
+            "options": [
+                {
+                    "value": 0,
+                    "label": "<p>(i) and (ii)</p>",
+                    "media": null,
+                    "isCorrect": 1,
+                    "score": 2,
+                    "feedback": [
+                        {
+                            "text": "<ul><li>An increase in the body mass of one individual and an increase in the number of individuals are considered the twin characteristics of growth.</li><li>The body mass increases due to continuous cell division in our body that happens throughout our life. </li><li>The number of individuals is increased by reproduction.</li></ul>",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 1,
+                    "label": "<p>(i) and (iii)</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 2,
+                    "label": "<p>(ii) and (iii)</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 3,
+                    "label": "<p>(iii) and (iv)</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                }
+            ],
+            "type": "SCQ",
+            "metadata": {
+                "shuffle": true,
+                "duration": 60,
+                "bloom": "Application",
+                "construct": "costr-57bcb7e9-fb47-483e-b175-18e04c687533",
+                "difficulty": "Easy",
+                "version": 3,
+                "microConcept": [
+                    {
+                        "id": "micro-930cc344-be8b-4b6d-9195-19f9857ea218",
+                        "label": "Characteristics of living organisms"
+                    }
+                ],
+                "distractor_rationale": {
+                    "label": "Incorrect feedback",
+                    "audio": ""
+                },
+                "acknowledgements": {
+                    "label": "Correct feedback",
+                    "audio": ""
+                },
+                "printable": true
+            },
+            "style": {}
+        },
+        "metadata": {
+            "name": "",
+            "template_reference": ""
+        },
+        "type": "",
+        "widget_type": "response",
+        "style": {
+            "qStyle": {
+                "bg": ""
+            },
+            "userInteraction": {
+                "stylePrint": "vertical print scq",
+                "styleAttempt": "vertical scq",
+                "styleReview": "vertical showTick instantFeedback showFeedback scq",
+                "stylePreview": "vertical scq"
+            }
+        },
+        "instructions": "<p>Select the correct answer.</p>",
+        "solution": {
+            "data": [],
+            "answer": [
+                {
+                    "text": "<ul><li>An increase in the body mass of one individual and an increase in the number of individuals are considered the twin characteristics of growth.</li><li>The body mass increases due to continuous cell division in our body that happens throughout our life. </li><li>The number of individuals is increased by reproduction.</li></ul>",
+                    "media": null
+                }
+            ],
+            "step_nav": false,
+            "type": "Solution"
+        },
+        "solutionStrategies": "",
+        "attachment": ""
+    },
+     {
+        "questionID": "tqqb-bded6b91-ca01-46c5-bee5-eb4ab07166d2",
+        "data": {
+            "stimulus": "<p>Which amongst these show true regeneration?</p>",
+            "stimulus_media": "",
+            "marks": 1,
+            "options": [
+                {
+                    "value": 0,
+                    "label": "<p>Planarians</p>",
+                    "media": null,
+                    "isCorrect": 1,
+                    "score": 1,
+                    "feedback": [
+                        {
+                            "text": "<p>Planarians show true regeneration where a fragmented organism regenerates the lost part of its body and becomes a new organism.</p>",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 1,
+                    "label": "<p>Mosses</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 2,
+                    "label": "<p>Fungi</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 3,
+                    "label": "<p>Bacteria</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                }
+            ],
+            "type": "SCQ",
+            "metadata": {
+                "shuffle": true,
+                "duration": 60,
+                "bloom": "Recall",
+                "construct": "costr-3ae67891-f35e-4b9e-9f8b-ec12ce30175b",
+                "difficulty": "Average",
+                "version": 1,
+                "microConcept": [
+                    {
+                        "id": "micro-930cc344-be8b-4b6d-9195-19f9857ea218",
+                        "label": "Characteristics of living organisms"
+                    }
+                ],
+                "distractor_rationale": {
+                    "label": "Incorrect feedback",
+                    "audio": ""
+                },
+                "acknowledgements": {
+                    "label": "Correct feedback",
+                    "audio": ""
+                },
+                "printable": true
+            },
+            "style": {}
+        },
+        "metadata": {
+            "name": "",
+            "template_reference": ""
+        },
+        "type": "",
+        "widget_type": "response",
+        "style": {
+            "qStyle": {
+                "bg": ""
+            },
+            "userInteraction": {
+                "stylePrint": "vertical print scq",
+                "styleAttempt": "vertical scq",
+                "styleReview": "vertical showTick instantFeedback showFeedback scq",
+                "stylePreview": "vertical scq"
+            }
+        },
+        "instructions": "<p>Select the correct answer.</p>",
+        "solution": {
+            "data": [],
+            "answer": [
+                {
+                    "text": "<p>Planarians show true regeneration where a fragmented organism regenerates the lost part of its body and becomes a new organism.</p>",
+                    "media": null
+                }
+            ],
+            "step_nav": false,
+            "type": "Solution"
+        },
+        "solutionStrategies": "",
+        "attachment": ""
+    },
+   {
+        "questionID": "tqqb-22f53c18-67ea-4c72-af05-e7553002182c",
+        "data": {
+            "stimulus": "<p>Which amongst these microorganisms cannot divide by fragmentation?</p>",
+            "stimulus_media": "",
+            "marks": 1,
+            "options": [
+                {
+                    "value": 0,
+                    "label": "<p>Bacteria</p>",
+                    "media": null,
+                    "isCorrect": 1,
+                    "score": 1,
+                    "feedback": [
+                        {
+                            "text": "<p>The fungi, the filamentous algae, the protonema of mosses, all easily multiply by fragmentation. But bacteria do not.</p>",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 1,
+                    "label": "<p>Fungi</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 2,
+                    "label": "<p>Algae</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 3,
+                    "label": "<p>Mosses</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                }
+            ],
+            "type": "SCQ",
+            "metadata": {
+                "shuffle": true,
+                "duration": 60,
+                "bloom": "Recall",
+                "construct": "costr-3ae67891-f35e-4b9e-9f8b-ec12ce30175b",
+                "difficulty": "Difficult",
+                "version": 1,
+                "microConcept": [
+                    {
+                        "id": "micro-930cc344-be8b-4b6d-9195-19f9857ea218",
+                        "label": "Characteristics of living organisms"
+                    }
+                ],
+                "distractor_rationale": {
+                    "label": "Incorrect feedback",
+                    "audio": ""
+                },
+                "acknowledgements": {
+                    "label": "Correct feedback",
+                    "audio": ""
+                },
+                "printable": true
+            },
+            "style": {}
+        },
+        "metadata": {
+            "name": "",
+            "template_reference": ""
+        },
+        "type": "",
+        "widget_type": "response",
+        "style": {
+            "qStyle": {
+                "bg": ""
+            },
+            "userInteraction": {
+                "stylePrint": "vertical print scq",
+                "styleAttempt": "vertical scq",
+                "styleReview": "vertical showTick instantFeedback showFeedback scq",
+                "stylePreview": "vertical scq"
+            }
+        },
+        "instructions": "<p>Select the correct answer.</p>",
+        "solution": {
+            "data": [],
+            "answer": [
+                {
+                    "text": "<p>The fungi, the filamentous algae, the protonema of mosses, all easily multiply by fragmentation. But bacteria do not.</p>",
+                    "media": null
+                }
+            ],
+            "step_nav": false,
+            "type": "Solution"
+        },
+        "solutionStrategies": "",
+        "attachment": ""
+    },
+      {
+        "questionID": "tqqb-50a9c570-dcd6-4e47-87d7-52a409a2cd2d",
+        "data": {
+            "stimulus": "<p>In the question given below, there are two statements marked as Assertion (A) and Reason (R). Read the statements and choose the correct option.</p><p>Assertion (A): Consciousness is a defining property of living organisms.</p><p>Reason (R): Human beings are the only organism that has self-consciousness.</p>",
+            "stimulus_media": "",
+            "marks": 1,
+            "options": [
+                {
+                    "value": 0,
+                    "label": "<p>Both A and R are true, but R is NOT the correct explanation of A. </p>",
+                    "media": null,
+                    "isCorrect": 1,
+                    "score": 1,
+                    "feedback": [
+                        {
+                            "text": "<ul><li>All living organisms have an inherent ability to sense their surroundings or environment and respond to environmental stimuli.</li><li>Plants and animals respond to external stimuli. Responses of animals are generally rapid and can easily be observed, for example, animals escaping by running away from a flooded river. Plants cannot move; they face environmental stresses and adapt through their slow physiological responses.</li><li>Human beings are slightly different. They are aware of themselves, which is self-consciousness.</li></ul>",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 1,
+                    "label": "<p>Both A and R are true, and R is the correct explanation of A.</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 2,
+                    "label": "<p>A is true, but R is false.</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                },
+                {
+                    "value": 3,
+                    "label": "<p>A is false, but R is true.</p>",
+                    "media": null,
+                    "isCorrect": 0,
+                    "score": 0,
+                    "feedback": [
+                        {
+                            "text": "",
+                            "media": null
+                        }
+                    ]
+                }
+            ],
+            "type": "SCQ",
+            "metadata": {
+                "shuffle": true,
+                "duration": 60,
+                "bloom": "Comprehension",
+                "construct": "costr-57bcb7e9-fb47-483e-b175-18e04c687533",
+                "difficulty": "Average",
+                "version": 3,
+                "microConcept": [
+                    {
+                        "id": "micro-930cc344-be8b-4b6d-9195-19f9857ea218",
+                        "label": "Characteristics of living organisms"
+                    }
+                ],
+                "distractor_rationale": {
+                    "label": "Incorrect feedback",
+                    "audio": ""
+                },
+                "acknowledgements": {
+                    "label": "Correct feedback",
+                    "audio": ""
+                },
+                "printable": true
+            },
+            "style": {}
+        },
+        "metadata": {
+            "name": "",
+            "template_reference": ""
+        },
+        "type": "",
+        "widget_type": "response",
+        "style": {
+            "qStyle": {
+                "bg": ""
+            },
+            "userInteraction": {
+                "stylePrint": "vertical print scq",
+                "styleAttempt": "vertical scq",
+                "styleReview": "vertical showTick instantFeedback showFeedback scq",
+                "stylePreview": "vertical scq"
+            }
+        },
+        "instructions": "<p>Select the correct answer.</p>",
+        "solution": {
+            "data": [],
+            "answer": [
+                {
+                    "text": "<ul><li>All living organisms have an inherent ability to sense their surroundings or environment and respond to environmental stimuli.</li><li>Plants and animals respond to external stimuli. Responses of animals are generally rapid and can easily be observed, for example, animals escape by running away from a flooded river. Plants cannot move; they face environmental stresses and adapt through their slow physiological responses.</li><li>Human beings are slightly different. They are aware of themselves, which is self-consciousness.</li></ul>",
+                    "media": null
+                }
+            ],
+            "step_nav": false,
+            "type": "Solution"
+        },
+        "solutionStrategies": "",
+        "attachment": ""
+    }
+]
